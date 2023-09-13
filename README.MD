@@ -1,0 +1,1 @@
+dotnet run --project .\dotnet-test\dotnet-test.csproj
